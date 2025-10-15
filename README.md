@@ -1,5 +1,4 @@
-# 
-👋 Hi, I'm Tapiwa
+# 👋 Hi, I'm Tapiwa
 Aspiring Process and Data Analyst | BI Enthusiast| Third Year BIDA student
 
 Welcome to my project portfolio!
