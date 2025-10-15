@@ -13,7 +13,8 @@ programming using python and python libraries, data cleaning, visualization and 
 These projects include:
 - Economic Recession Prediction Using Machine Learning
 - Custormer Churn Analysis
-- Datawarehousing
+- Datawarehousing using SQL Server
 - Digital Water Meter Data Analysis
-- 
+- Website Development
+- LA Crime Data Analysis
   
