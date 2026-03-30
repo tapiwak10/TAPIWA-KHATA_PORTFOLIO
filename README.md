@@ -17,4 +17,5 @@ These projects include:
 - Digital Water Meter Data Analysis
 - Website Development
 - LA Crime Data Analysis
+- BOCRA Hackathon
   
